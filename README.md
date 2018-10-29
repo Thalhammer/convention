@@ -1,3 +1,4 @@
+<!--GENERATED FROM COMMIT 730357e0a2133216460085f230ce10b0876261c9-->
 ![Homie banner](banner.png)
 
 <h1 align="center">The Homie Convention</h1>
